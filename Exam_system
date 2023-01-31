@@ -5,7 +5,7 @@
 package Exam;
 
 
-//Madhura Nevase
+//Shannon Fernandes
 //Online Examination System
 //Java Programming Task-4
 
@@ -17,7 +17,7 @@ public class Exam_System {
 	HashMap<String, Integer> data = new HashMap<String, Integer>();
 
 	public void login() {
-		data.put("Madhura", 1234);
+		data.put("Shannon", 1234);
 		data.put("xyz", 2345);
 		System.out.println("\n\n-----Welcome to online exam portal-----");
 		String userid;
